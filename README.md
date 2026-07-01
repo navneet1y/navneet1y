@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navneet Yadav</h1>
 
 <h3 align="center">
-Backend Developer • Systems Programming • Networking • Competitive Programming
+Backend Developer • Problem Solver • Systems Programming • Networking • 
 </h3>
 
 <p align="center">
