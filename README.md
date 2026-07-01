@@ -68,20 +68,7 @@ Backend Developer • Systems Programming • Networking • Competitive Program
 - 🌐 Computer Networks
 - 🐳 Docker
 - ⚙️ System Design Fundamentals
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=navneet1y&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=navneet1y&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet1y&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
+  
 ---
 
 # 🏆 GitHub Trophies
