@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saphire</h1>
+<h1 align="center">Hi 👋, I'm Navneet </h1>
 
 <h3 align="center">
 Backend • Systems Programming • Networking • Competitive Programming
