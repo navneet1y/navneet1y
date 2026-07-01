@@ -1,103 +1,117 @@
-<h1 align="center">Hi 👋, I'm Navneet </h1>
+<h1 align="center">Hi 👋, I'm Navneet Yadav</h1>
 
 <h3 align="center">
-Backend • Systems Programming • Networking • Competitive Programming
+Backend Developer • Systems Programming • Networking • Competitive Programming
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;Networking+Enthusiast;Linux+User;Competitive+Programmer;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;Networking+Enthusiast;Linux+User;Competitive+Programmer;Always+Learning+Something+New" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/navneet-yadav1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:navneet1.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/navneet1y" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navneet1y&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
 - 🎓 Computer Science Student
-- 💻 Interested in **Backend Development, Networking and Systems Programming**
-- 🌱 Currently learning **Spring Boot, Computer Networks and Linux Internals**
-- ⚡ Love building projects from scratch
-- 📫 Reach me at **YOUR_EMAIL**
+- 💻 Passionate about **Backend Development, Networking & Systems Programming**
+- 🌱 Currently learning **Spring Boot, Linux Internals & Computer Networks**
+- ⚡ Love building scalable backend systems and low-level software
+- 🚀 Always exploring new technologies
+- 📫 Reach me at **navneet1.work@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb,firebase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb,firebase" />
 </p>
 
 ### DevOps & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,postman,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,postman,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Currently Learning
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 🌱 Spring Boot
+- 🐧 Linux System Programming
+- 🌐 Computer Networks
+- 🐳 Docker
+- ⚙️ System Design Fundamentals
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=navneet1y&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=navneet1y&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneet1y&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-- 🌐 Multi-threaded HTTP Server in C
-- 💬 Chat Application
-- 🔒 Socket Programming Projects
-- 📡 Computer Networks Lab
-- ⚙️ Linux System Programming
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
----
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=navneet1y&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 </p>
 
-<p align="center">
+---
 
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navneet1y&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌐 Multi-threaded HTTP Server | High-performance HTTP server built in C using sockets and pthreads |
+| 💬 Chat Application | Real-time TCP chat application |
+| 🔒 Socket Programming | Networking projects using Berkeley Sockets |
+| 📡 Computer Networks Lab | Protocol implementations and networking experiments |
+| ⚙️ Linux System Programming | Threads, Processes, Synchronization & IPC |
+
+---
+
+<p align="center">
 <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
-
 </p>
