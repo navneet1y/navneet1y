@@ -5,7 +5,7 @@ Backend Developer • Systems Programming • Networking
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;Networking+Enthusiast;Linux+User;Competitive+Programmer;Always+Learning+Something+New" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;Networking+Enthusiast;Linux+User;Always+Learning+Something+New" alt="Typing SVG"/>
 </p>
 
 <p align="center">
