@@ -60,45 +60,6 @@ Backend Developer • Systems Programming • Networking • Competitive Program
 </p>
 
 ---
-
-# 📚 Currently Learning
-
-- 🌱 Spring Boot
-- 🐧 Linux System Programming
-- 🌐 Computer Networks
-- 🐳 Docker
-- ⚙️ System Design Fundamentals
-  
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=navneet1y&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navneet1y&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🌐 Multi-threaded HTTP Server | High-performance HTTP server built in C using sockets and pthreads |
-| 💬 Chat Application | Real-time TCP chat application |
-| 🔒 Socket Programming | Networking projects using Berkeley Sockets |
-| 📡 Computer Networks Lab | Protocol implementations and networking experiments |
-| ⚙️ Linux System Programming | Threads, Processes, Synchronization & IPC |
-
----
-
 <p align="center">
 <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
 </p>
